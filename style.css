@@ -65,7 +65,7 @@ button{
     -o-transform: translate(-50%, 0);
     background:green ;
     color: white;
-    padding: 20px;
+    padding: 10px 20px;
     z-index: 200;
     cursor: pointer;
     border: green;
